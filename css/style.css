@@ -1,0 +1,26 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+}
+
+.card {
+    width: 350px;
+    border: 1px solid #bebebe;
+    border-radius: 5px;
+}
+
+.card__img img {
+width: 100%;
+height: 200px;
+object-fit: cover;
+}
+*{
+    font-family:Phetsarath OT;
+}
+#pt2{
+    height: 300px;
+    width: 300px;
+}
+
